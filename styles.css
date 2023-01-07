@@ -1,0 +1,23 @@
+a.red-action{
+  color:red;
+}
+.post-buttons{
+  padding-top:10px;
+}
+#pills-feed-tab, #pills-profile-tab{
+  color:black;
+  background-color:white;
+}
+.feed-img img{
+  width:100%;
+  margin:3px;
+}
+.card-header span{
+  float:right;
+}
+.card img{
+  height:300px;
+}
+#pills-profile div{
+  margin-top:10px;
+}
